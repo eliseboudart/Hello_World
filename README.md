@@ -7,5 +7,3 @@ _My name is **Elise**_ and I am a junior at the **University of Iowa** studying 
 I love: 
 *Going on walks outside, and 
 *Listening to the Beatles.
-
-![The Beatles Herky](https://imgur.com/a/7CpsoMg)
