@@ -1,6 +1,11 @@
 # Hello_World
 
-Hi everyone!
+## Hi everyone!
 
-My name is Elise and I am a junior at the University of Iowa studying Accounting and Business Analytics.
-I love going on walks outside and listening to the Beatles.
+_My name is **Elise**_ and I am a junior at the **University of Iowa** studying Accounting and Business Analytics.
+
+I love: 
+*Going on walks outside, and 
+*Listening to the Beatles.
+
+![The Beatles Herky](https://imgur.com/a/7CpsoMg)
